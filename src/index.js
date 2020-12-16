@@ -113,7 +113,7 @@
 /**
  * mapやfillter
  */
-const nameArr = ["田中", "佐藤", "高木"];
+// const nameArr = ["田中", "佐藤", "高木"];
 // for (let i = 0; i < nameArr.length; i++) {
 //   console.log(nameArr[i]);
 // }
